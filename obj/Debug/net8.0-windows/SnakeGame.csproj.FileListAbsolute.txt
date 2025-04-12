@@ -1,0 +1,14 @@
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SnakeGame.exe
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SnakeGame.deps.json
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SnakeGame.runtimeconfig.json
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SnakeGame.dll
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SnakeGame.pdb
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.AssemblyInfo.cs
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.dll
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\SnakeGame.dll
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.pdb
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SnakeGame.genruntimeconfig.cache
+C:\Users\KDFX Modes\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\SnakeGame.dll
